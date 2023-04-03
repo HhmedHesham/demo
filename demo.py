@@ -1,10 +1,1 @@
-print("Hello World")
-print("Hello World")
-asdfds fasd
-asdfasdfas
-f asd
-fasd
-fasd
-fasd
-finallyd 
-asdf
+انا عدلت الملف من الجيت هاب ومسحت جميع الكود اللي انت كتبته
